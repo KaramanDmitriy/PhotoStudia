@@ -468,10 +468,14 @@ header{
     width: 100%;
   }
   .articles__item {
-    padding: 300px 45px 30px 30px;
+    padding: 280px 45px 30px 30px;
   }
   .footer__btn{
     right: 7px;
+  }
+  .articles__item-text {
+    margin-bottom: 10px;
+  }  
 }
 @media (max-width: 510px){
   .icons-nav{
