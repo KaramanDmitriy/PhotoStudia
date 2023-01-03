@@ -466,6 +466,9 @@ header{
   .about__inner{
     width: 100%;
   }
+  .articles__item {
+    padding: 300px 45px 30px 30px;
+  }
 }
 @media (max-width: 510px){
   .icons-nav{
@@ -486,9 +489,6 @@ header{
   }
   .footer__top-left{
     margin-bottom: 100px;
-  }
-  .articles__item {
-    padding: 300px 45px 30px 30px;
   }
 }
 @media (max-width: 400px) {
