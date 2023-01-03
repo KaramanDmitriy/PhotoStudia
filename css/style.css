@@ -487,11 +487,11 @@ header{
   .footer__top-left{
     margin-bottom: 100px;
   }
-}
-@media (max-width: 400px) {
   .articles__item {
     padding: 300px 45px 30px 30px;
   }
+}
+@media (max-width: 400px) {
   .footer__middle{
     flex-wrap: wrap;
     flex-direction: column;
