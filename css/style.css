@@ -470,6 +470,8 @@ header{
   .articles__item {
     padding: 300px 45px 30px 30px;
   }
+  .footer__btn{
+    right: 7px;
 }
 @media (max-width: 510px){
   .icons-nav{
