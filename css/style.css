@@ -383,6 +383,7 @@ header{
   width: 50%;
   align-items: center;
   justify-content: flex-end;
+  padding-right: 10px;
 }
 .footer__bottom-right__link{
   margin-left: 20px;
